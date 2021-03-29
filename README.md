@@ -21,19 +21,19 @@ Before the omittance of the ninth graders’ math and reading scores, Thomas Hig
 
 * How does replacing the ninth-grade scores affect the following:
 
-- Math and reading scores by grade
+-Math and reading scores by grade
 
 The only difference by omitting the grade nine data for Thomas High School is there is no data showing for Thomas High School. Since the calculation here is done per grade and the data for Thomas High School is omitted, grade nine performance cannot be compared with other high schools. Performance data for grades ten, eleven and twelve are not changed and can still be compared. For the before and after data see [HERE](https://github.com/donovancai/School_District_Analysis/blob/main/Resources/scores_by_grade.png). 
 
-- Scores by school spending
+-Scores by school spending
 
 There are no changes in the scores by school spending before and after omitting grade nine math and reading data. 
 
-- Scores by school size
+-Scores by school size
 
 There are no changes in the scores by school size before and after omitting grade nine math and reading data. 
 
-- Scores by school type
+-Scores by school type
 
 There are no changes in the scores by school type before and after omitting grade nine math and reading data. 
 
