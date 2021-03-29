@@ -25,19 +25,19 @@ How does replacing the ninth-grade scores affect the following:
 
   * Math and reading scores by grade
 
-  * The only difference by omitting the grade nine data for Thomas High School is there is no data showing for Thomas High School. Since the calculation here is done per grade and the data for Thomas High School is omitted, grade nine performance cannot be compared with other high schools. Performance data for grades ten, eleven and twelve are not changed and can still be compared. For the before and after data see [HERE](https://github.com/donovancai/School_District_Analysis/blob/main/Resources/scores_by_grade.png). 
+    * The only difference by omitting the grade nine data for Thomas High School is there is no data showing for Thomas High School. Since the calculation here is done per grade and the data for Thomas High School is omitted, grade nine performance cannot be compared with other high schools. Performance data for grades ten, eleven and twelve are not changed and can still be compared. For the before and after data see [HERE](https://github.com/donovancai/School_District_Analysis/blob/main/Resources/scores_by_grade.png). 
 
   * Scores by school spending
 
-  * There are no changes in the scores by school spending before and after omitting grade nine math and reading data. 
+    * There are no changes in the scores by school spending before and after omitting grade nine math and reading data. 
 
   * Scores by school size
 
-  * There are no changes in the scores by school size before and after omitting grade nine math and reading data. 
+    * There are no changes in the scores by school size before and after omitting grade nine math and reading data. 
 
   * Scores by school type
 
-  * There are no changes in the scores by school type before and after omitting grade nine math and reading data. 
+    * There are no changes in the scores by school type before and after omitting grade nine math and reading data. 
 
 ### Summary
 The four major differences before and after omitting Thomas High School grade nine reading and math data are in % Passing Math, % Passing Reading, % Overall Passing and the overall district performance. By excluding the grade nine math and reading data, % Passing Math increased by 26.27%, % Passing Reading increased by 27.36%, % Overall Passing increased by 25.55%. The major improvements in these three categories increased the overall district % Passing Math/Reading by 0.2% and the % Overall Passing by 0.3%. This is significant because out of the entire student population of 39,170, there are only 461 grade nine students from Thomas High School, which is about 1.18% of the whole population. 
