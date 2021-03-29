@@ -9,21 +9,21 @@ The focus of this analysis will be on Thomas High School, whose math and reading
 
 * How is the district summary affected?
 
-The overall district summary shows minor changes before and after omitting Thomas High School’s Grade Nine students’ reading and math data. The comparison can be seen (HERE)[https://github.com/donovancai/School_District_Analysis/blob/main/Resources/district.png].
+The overall district summary shows minor changes before and after omitting Thomas High School’s Grade Nine students’ reading and math data. The comparison can be seen [HERE](https://github.com/donovancai/School_District_Analysis/blob/main/Resources/district.png).
 
 * How is the school summary affected?
 
-By removing Thomas High School’s Grade Nine students’ reading and math data from the total data, the Average Math/Reading Scores, % Passing Math/Reading and % Overall Passing have all increased. Once these data are omitted, math/reading and overall passing grades increased by roughly 26% each. The comparison can be seen (HERE)[https://github.com/donovancai/School_District_Analysis/blob/main/Resources/school.png].
+By removing Thomas High School’s Grade Nine students’ reading and math data from the total data, the Average Math/Reading Scores, % Passing Math/Reading and % Overall Passing have all increased. Once these data are omitted, math/reading and overall passing grades increased by roughly 26% each. The comparison can be seen [HERE](https://github.com/donovancai/School_District_Analysis/blob/main/Resources/school.png).
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-Before the omittance of the ninth graders’ math and reading scores, Thomas High School ranked about middle of the pack out of all schools in terms of student performance ((HERE)[https://github.com/donovancai/School_District_Analysis/blob/main/Resources/ranking_before.png]). The data omittance caused Thomas High School to achieve a significantly higher ranking amongst all school, pushing the school up to second overall ((HERE)[https://github.com/donovancai/School_District_Analysis/blob/main/Resources/ranking_after.png]).
+Before the omittance of the ninth graders’ math and reading scores, Thomas High School ranked about middle of the pack out of all schools in terms of student performance ([HERE](https://github.com/donovancai/School_District_Analysis/blob/main/Resources/ranking_before.png)). The data omittance caused Thomas High School to achieve a significantly higher ranking amongst all school, pushing the school up to second overall ([HERE](https://github.com/donovancai/School_District_Analysis/blob/main/Resources/ranking_after.png)).
 
 * How does replacing the ninth-grade scores affect the following:
 
 - Math and reading scores by grade
 
-The only difference by omitting the grade nine data for Thomas High School is there is no data showing for Thomas High School. Since the calculation here is done per grade and the data for Thomas High School is omitted, grade nine performance cannot be compared with other high schools. Performance data for grades ten, eleven and twelve are not changed and can still be compared. For the before and after data see (HERE)[https://github.com/donovancai/School_District_Analysis/blob/main/Resources/scores_by_grade.png]. 
+The only difference by omitting the grade nine data for Thomas High School is there is no data showing for Thomas High School. Since the calculation here is done per grade and the data for Thomas High School is omitted, grade nine performance cannot be compared with other high schools. Performance data for grades ten, eleven and twelve are not changed and can still be compared. For the before and after data see [HERE](https://github.com/donovancai/School_District_Analysis/blob/main/Resources/scores_by_grade.png). 
 
 - Scores by school spending
 
