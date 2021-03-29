@@ -19,6 +19,7 @@ The focus of this analysis will be on Thomas High School, whose math and reading
 
   * Before the omittance of the ninth graders’ math and reading scores, Thomas High School ranked about middle of the pack out of all schools in terms of student performance ([HERE](https://github.com/donovancai/School_District_Analysis/blob/main/Resources/ranking_before.png)). The data omittance caused Thomas High School to achieve a significantly higher ranking amongst all school, pushing the school up to second overall ([HERE](https://github.com/donovancai/School_District_Analysis/blob/main/Resources/ranking_after.png)).
 
+
 How does replacing the ninth-grade scores affect the following:
 
   * Math and reading scores by grade
